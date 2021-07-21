@@ -1,0 +1,21 @@
+2021-07-21 15:26:03,737 INFO r.o.A.RetrofitUserTests [main] 
+Response code: 200
+Body: User{data=Data{id=2, email='janet.weaver@reqres.in', firstName='Janet', lastName='Weaver', avatar='https://reqres.in/img/faces/2-image.jpg'}, support=Support{url='https://reqres.in/#support-heading', text='To keep ReqRes free, contributions towards server costs are appreciated!'}}
+2021-07-21 15:26:16,053 INFO r.o.A.RetrofitUserTests [main] 
+Response code: 204
+Body: null
+2021-07-21 15:26:28,267 INFO r.o.A.RetrofitUserTests [main] ID созданного пользователя: 294
+2021-07-21 15:26:28,268 INFO r.o.A.RetrofitUserTests [main] Время создания пользователя: 2021-07-21T12:26:26.680Z
+2021-07-21 15:26:28,268 INFO r.o.A.RetrofitUserTests [main] Body ответа от API : CreateUserRequest{job='leader', name='morpheus'}
+2021-07-21 15:27:44,267 INFO r.o.A.ApiHelpersUserTests [main] ID созданного пользователя: 466
+2021-07-21 15:27:44,268 INFO r.o.A.ApiHelpersUserTests [main] Время создания пользователя: 2021-07-21T12:27:42.675Z
+2021-07-21 15:27:44,269 INFO r.o.A.ApiHelpersUserTests [main] Body ответа от API : CreateUserRequest{job='leader', name='morpheus'}
+2021-07-21 15:39:34,935 INFO r.o.A.ApiHelpersUserTests [main] ID созданного пользователя: 892
+2021-07-21 15:39:34,936 INFO r.o.A.ApiHelpersUserTests [main] Время создания пользователя: 2021-07-21T12:39:33.349Z
+2021-07-21 15:39:34,936 INFO r.o.A.ApiHelpersUserTests [main] Body ответа от API : CreateUserRequest{job='leader', name='morpheus'}
+2021-07-21 15:40:01,846 INFO r.o.A.ApiHelpersUserTests [main] ID созданного пользователя: 281
+2021-07-21 15:40:01,847 INFO r.o.A.ApiHelpersUserTests [main] Время создания пользователя: 2021-07-21T12:40:00.258Z
+2021-07-21 15:40:01,847 INFO r.o.A.ApiHelpersUserTests [main] Body ответа от API : CreateUserRequest{job='QA Tester', name='Vasya'}
+2021-07-21 15:42:29,614 INFO r.o.A.ApiHelpersUserTests [main] ID созданного пользователя: 843
+2021-07-21 15:42:29,614 INFO r.o.A.ApiHelpersUserTests [main] Время создания пользователя: 2021-07-21T12:42:28.029Z
+2021-07-21 15:42:29,615 INFO r.o.A.ApiHelpersUserTests [main] Body ответа от API : CreateUserRequest{job='QA Tester', name='Vasya'}
